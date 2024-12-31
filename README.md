@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aman Bhagat Electronics and Communication Engineering student
-- 👀 I’m interested in Web Developement
+- 👋 Hi, I’m Aman Bhagat,Electronics and Communication Engineering student
+- 👀 I’m interested in Web Developement and Data Structures & Algorithm
 - 🌱 I’m currently learning Electronics and Communication Engineering and 🌱 Currently working on enhancing my Problem Solving Skills in Data Structures and Algorithms.
 - 💞️ 👯 I’m looking forward to collaborate on different open-source projects 
 - 📫 Reach me : amanbhagat.191@gmail.com || aman.2201158ec@iiitbh.ac.in
