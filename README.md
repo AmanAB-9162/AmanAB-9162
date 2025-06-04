@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 I'm Aman Bhagat from IIIT BHAGALPUR(2022-26).<br>🔭 I'm diving deep into full-stack development, leveraging my React.js, Node.js, Next.js, MongoDB and Express.js expertise to build robust and interactive web applications.<br>👯 I’m looking to collaborate on Open Source Community.<br>💬 Beyond individual projects, I'm passionate about creating meaningful projects 💡.
+👋 I'm Aman Bhagat from IIIT BHAGALPUR(2022-26).<br>🔭 I'm diving deep into full-stack development, leveraging my React.js, Node.js, Next.js, MongoDB, Firebase and Express.js expertise to build robust and interactive web applications.<br>👯 I’m looking to collaborate on Open Source Community.<br>💬 Beyond individual projects, I'm passionate about creating meaningful projects 💡.
 
 ## 🌐 Socials:
 
